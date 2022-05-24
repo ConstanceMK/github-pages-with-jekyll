@@ -1,6 +1,7 @@
 title: Constance's Awesome Blog
 author: ConstanceMK
 email: constance.kern@lexisnexisrisk.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Constance Awesome Blog, where we talk about awesome things like singing and personal growth!
 
